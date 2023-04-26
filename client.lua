@@ -5,7 +5,7 @@ local elements = {
 }
 
 RegisterCommand('testing_ia',function()
-  local npc = exports['mk_talknpc']:CreateNPC({
+  local npc = exports['rep-talkNPC']:CreateNPC({
 		npc = 'u_m_y_abner',
 		coords =  GetEntityCoords(PlayerPedId()) - vector3(0.5, 0.5, 1.0),
 		heading = 160.0,
