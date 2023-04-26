@@ -14,7 +14,7 @@ Using this prototype is not profitable at the moment, until there is a free opti
 use this script. It should be noted that my intention was to give the NPCs an experimental use, so that they respond based on what the user asks, without
 the need to have a variable prefix with a set response, as I wanted to allow the player to interact with the NPC.
 
-Sorry for my English, but I'm speak Spanish.
+Sorry for my English, but I speak Spanish.
 
 
 ## Important
